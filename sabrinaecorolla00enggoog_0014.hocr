@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./sabrinaecorolla00enggoog_0014.png"; bbox 0 0 783 1594; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 193 695 584 815">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 193 695 584 815">
+     <span class='ocr_line' id='line_1_1' title="bbox 232 695 545 709; baseline 0 -1"><span class='ocrx_word' id='word_1_1' title='bbox 232 696 284 708; x_wconf 75' lang='lat' dir='ltr'>MVSIS</span> <span class='ocrx_word' id='word_1_2' title='bbox 293 699 296 702; x_wconf 70' lang='lat'>*</span> <span class='ocrx_word' id='word_1_3' title='bbox 305 695 423 709; x_wconf 70' lang='lat' dir='ltr'>CAMENJSQVE</span> <span class='ocrx_word' id='word_1_4' title='bbox 433 698 436 702; x_wconf 67' lang='grc'>’</span> <span class='ocrx_word' id='word_1_5' title='bbox 444 695 545 708; x_wconf 71' lang='lat' dir='ltr'>VETEMBVS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 193 748 584 761; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 193 749 265 761; x_wconf 69' lang='lat' dir='ltr'>vwmu</span> <span class='ocrx_word' id='word_1_7' title='bbox 275 752 278 756; x_wconf 90' lang='grc'>’</span> <span class='ocrx_word' id='word_1_8' title='bbox 288 748 312 761; x_wconf 77' lang='grc' dir='ltr'>ΝΕ</span> <span class='ocrx_word' id='word_1_9' title='bbox 322 752 326 756; x_wconf 71' lang='grc'>’</span> <span class='ocrx_word' id='word_1_10' title='bbox 335 748 452 761; x_wconf 70' lang='lat' dir='ltr'>BRITANMAM</span> <span class='ocrx_word' id='word_1_11' title='bbox 462 752 465 756; x_wconf 83' lang='lat'>¹</span> <span class='ocrx_word' id='word_1_12' title='bbox 475 749 584 761; x_wconf 70' lang='lat' dir='ltr'><strong>RELlcrvms</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 354 803 421 815; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 354 803 369 815; x_wconf 67' lang='grc' dir='ltr'>Ι)4</span> <span class='ocrx_word' id='word_1_14' title='bbox 379 803 395 815; x_wconf 82' lang='lat' dir='ltr'>D.</span> <span class='ocrx_word' id='word_1_15' title='bbox 405 803 421 815; x_wconf 84' lang='lat' dir='ltr'>D.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 347 856 432 868">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 347 856 432 868">
+     <span class='ocr_line' id='line_1_4' title="bbox 347 856 432 868; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 347 856 361 868; x_wconf 81' lang='grc' dir='ltr'>Τ.</span> <span class='ocrx_word' id='word_1_17' title='bbox 370 856 384 868; x_wconf 68' lang='lat' dir='ltr'>V⁴</span> <span class='ocrx_word' id='word_1_18' title='bbox 395 856 408 868; x_wconf 34' lang='lat'>1⁷*</span> <span class='ocrx_word' id='word_1_19' title='bbox 418 856 432 868; x_wconf 82' lang='lat' dir='ltr'>L.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 314 1297 451 1325">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 314 1297 451 1325">
+     <span class='ocr_line' id='line_1_5' title="bbox 314 1297 451 1325; baseline -0.022 0"><span class='ocrx_word' id='word_1_20' title='bbox 314 1297 451 1325; x_wconf 73' lang='lat'>381806</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
